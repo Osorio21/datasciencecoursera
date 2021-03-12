@@ -1,8 +1,0 @@
----
-title: "Week 4 Markdown File"
-author: "Osorio21"
-date: "3/12/2021"
-output: word_document
----
-
-## This is a markdown file
